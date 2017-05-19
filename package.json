@@ -31,5 +31,9 @@
   "bugs": {
     "url": "https://github.com/nrhirani/node-qpdf/issues"
   },
-  "homepage": "https://github.com/nrhirani/node-qpdf#node-qpdf"
+  "homepage": "https://github.com/nrhirani/node-qpdf#node-qpdf",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "util": "^0.10.3"
+  }
 }
